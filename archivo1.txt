@@ -1,11 +1,9 @@
 Línea inicial del archivo de texto:
 
-<<<<<<< HEAD
 modificación en master
-=======
 
 
 un nuevo cambio en rama desarrollo
 
 
->>>>>>> desarrollo
+otro cambio desde head.
