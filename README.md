@@ -1,0 +1,2 @@
+# fusiondatos
+Master desde colaborador.
